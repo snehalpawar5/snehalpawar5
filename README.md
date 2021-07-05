@@ -1,4 +1,4 @@
-- 👋 Hi, I’m snehalpawar5
+- 👋 Hi, I’m Snehal
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on programming
