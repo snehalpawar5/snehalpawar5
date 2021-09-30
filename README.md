@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Snehal
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently learning Java Full Stack Development.
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me snehal.pawar308@gmail.com
 
